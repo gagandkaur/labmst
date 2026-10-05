@@ -1,0 +1,5 @@
+[
+  { "id": 1, "title": "React Meetup" },
+  { "id": 2, "title": "JavaScript Conference" },
+  { "id": 3, "title": "Open Source Hackathon" }
+]
